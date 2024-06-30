@@ -4,15 +4,14 @@ Setzt Datenschutz und Datensicherheit bei Informatiksystemen ein. Überprüft vo
 
 Eine Übersicht über die im Modul 231 zu erreichenden Kompetenzen finden Sie im Abschnitt [Kompetenzmatrix](00_kompetenzband/)
 
-# Modulinhalt
- - [Datenschutz](01_Datenschutz/)
- - [Verschlüsselung](03_Passw%C3%B6rter/)
- - [Passwortverwaltung](03_Passw%C3%B6rter/)
- - [Ablagesysteme](04_Ablagesysteme/)
- - [Backup](05_Backup/)
- - [BackupProbleme-und-Juristisches](06_BackupProbleme-und-Juristisches/)
- - [Lizenzmodelle](07_Lizenzmodelle/)
- - [Git / Markdown](10_Git/)
+# Dokumentation
+ - [01_Datenschutz und Datensicherheit](01_Datenschutz-und-Datensicherheit/)
+ - [02_Wichtigeste Begriffe](03_Wichtigeste-Begriffe/)
+ - [03_EDÖB](03_EDOB/)
+ - [04_Herausvorderungen der Digitalen Welt](04_Herausvorderungen-der-Digitalen-Welt/)
+ - [05_Ablagesystem](05_Ablagesysteme/)
+ - [06_Nutzungsbestimmungen bekannte Plattformen prüfen](06_Nutzungsbestimmungen-bekannte-Plattformen-prüfen/)
+ - [07_Phishing vs. Spear Phishing vs. Whaling](07_Phishing-vs.-Spear-Phishing-vs.-Whaling/)
 
 # Leistungsbeurteilung
 
