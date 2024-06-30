@@ -6,7 +6,7 @@ Eine Übersicht über die im Modul 231 zu erreichenden Kompetenzen finden Sie im
 
 # Dokumentation
  - [Datenschutz und Datensicherheit](01_Datenschutz-und-Datensicherheit/)
- - [Wichtigeste Begriffe](03_Wichtigeste-Begriffe/)
+ - [Wichtigeste Begriffe](02_Wichtigeste-Begriffe/)
  - [EDÖB](03_EDOB/)
  - [Herausvorderungen der Digitalen Welt](04_Herausvorderungen-der-Digitalen-Welt/)
  - [Ablagesystem](05_Ablagesysteme/)
