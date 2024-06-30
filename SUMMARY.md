@@ -1,8 +1,6 @@
-# M231 - Datenschutz und Datensicherheit anwenden
+# Summary
 
-Setzt Datenschutz und Datensicherheit bei Informatiksystemen ein. Überprüft vorhandene Systeme auf Einhaltung von Richtlinien.
-
-# Dokumentation
+## Themen
  - [Datenschutz und Datensicherheit](01_Datenschutz-und-Datensicherheit/)
  - [Wichtigeste Begriffe](02_Wichtigeste-Begriffe/)
  - [EDÖB](03_EDOB/)
