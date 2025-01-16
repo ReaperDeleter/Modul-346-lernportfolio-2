@@ -1,6 +1,0 @@
-# Discords Datenschutz und Richtlinien
-Die Datenschutz- und Nutzungsrichtlinien von Discord regeln die Erhebung, Verwendung und Weitergabe von personenbezogenen Daten seiner Nutzer. Discord sammelt Informationen wie Namen, E-Mail-Adressen, IP-Adressen und Gerätedaten, um die Plattformdienste bereitzustellen, Sicherheitsmaßnahmen umzusetzen und die Benutzererfahrung zu verbessern. Die Nutzung von Cookies und ähnlichen Technologien ermöglicht es Discord, das Nutzerverhalten zu analysieren und die Dienste zu optimieren.
-
-Discord kann personenbezogene Daten an Dritte weitergeben, einschließlich Dienstleistern und Behörden, um gesetzliche Verpflichtungen zu erfüllen oder die Nutzungsbedingungen durchzusetzen. Nutzer haben bestimmte Rechte in Bezug auf ihre Daten, darunter das Recht auf Zugang zu ihren Informationen, das Recht auf Berichtigung ungenauer Daten, das Recht auf Löschung unter bestimmten Umständen und das Recht auf Einschränkung der Verarbeitung.
-
-Es ist ratsam, die aktuellen Datenschutz- und Nutzungsbedingungen auf der offiziellen Discord-Website regelmäßig zu überprüfen, um über Änderungen informiert zu bleiben und alle relevanten Aspekte der Nutzung der Plattform zu verstehen.
