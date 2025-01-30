@@ -1,27 +1,31 @@
-# Vor was schützt Sie das Datenschutzgesetz?
+## 1. Screenshot – HTML-Seite, inkl. URL (EC2)
 
-Das Datenschutzgesetz schützt vor verschiedenen Formen des Datenmissbrauchs und sichert die Rechte der Einzelpersonen in Bezug auf ihre persönlichen Daten. Es schützt spezifisch vor:
+    Beschreibung: Der Screenshot zeigt die HTML-Seite, die von der EC2-Instanz bereitgestellt wird, zusammen mit der URL, die die öffentliche IP-Adresse der Instanz widerspiegelt.
 
+## 2. Screenshot – Liste der EC2-Instanzen
 
-## Das Eigene Bild:
+    Beschreibung: Der Screenshot zeigt eine Liste der EC2-Instanzen in der AWS-Konsole, einschließlich der Instanznamen und deren Status (aktiv oder gestoppt).
 
-Unbefugte Veröffentlichung: Das Datenschutzgesetz schützt vor der unbefugten Veröffentlichung und Verbreitung von Bildern, die ohne Einwilligung der betroffenen Person gemacht wurden.
-Missbrauch: Es verhindert den Missbrauch von Bildern, beispielsweise durch Verfälschungen oder Verwendung in unangemessenen Kontexten.
+## 3. Screenshot – Details der Web Server-Instanz (öffentliche IP sichtbar)
 
+    Beschreibung: Hier ist die Detailansicht einer EC2-Webserver-Instanz zu sehen, bei der die öffentliche IP-Adresse hervorgehoben wird.
 
-## Cybermobbing:
+## 4. Screenshot – Security-Group: Liste der Inbound-Regeln
 
-Schutz vor Belästigung: Datenschutzgesetze bieten Schutzmaßnahmen gegen die Verbreitung beleidigender, falscher oder schädlicher Informationen, die dem Ruf und der Psyche einer Person schaden können.
-Rechtsmittel: Sie geben Betroffenen das Recht, rechtliche Schritte gegen Täter einzuleiten, die ihre Daten für Cybermobbing verwenden.
+    Beschreibung: Der Screenshot zeigt die Sicherheitsgruppe der EC2-Instanz, mit einer Übersicht der konfigurierten Inbound-Regeln, die den eingehenden Datenverkehr (wie HTTP, SSH) steuern.
 
+## 5. Screenshot – Liste der Buckets (S3)
 
-## Rechtfertigungsgrund:
+    Beschreibung: Der Screenshot zeigt eine Liste der S3-Buckets in Ihrer AWS-Konsole, mit Namen und möglicher Sichtbarkeit der Buckets.
 
-Rechtmäßige Datenverarbeitung: Das Gesetz stellt sicher, dass Daten nur aus rechtlich zulässigen Gründen und mit angemessener Rechtfertigung verarbeitet werden. Unrechtmäßige Datenverarbeitung kann strafrechtliche Konsequenzen haben.
-Transparenz: Es verlangt von Organisationen und Einzelpersonen, die Gründe und Umstände, unter denen sie persönliche Daten verarbeiten, offenzulegen.
+## 6. Screenshot – HTML-Seite, inkl. URL (S3)
 
+    Beschreibung: Hier ist die HTML-Seite eines S3-Buckets zu sehen, die als statische Website konfiguriert ist. Die URL ist sichtbar, die auf die gehostete Seite verweist.
 
-## Meme:
+## 7. Screenshot – Liste der Dateien im Bucket
 
-Schutz der persönlichen Rechte: Wenn ein Meme persönliche Informationen oder Bilder enthält, schützt das Datenschutzgesetz vor unbefugter Verwendung und Verbreitung.
-Schutz vor Rufschädigung: Memes, die diffamierend oder beleidigend sind, können rechtliche Konsequenzen nach sich ziehen, und das Gesetz bietet Schutz und Rechtsmittel für Betroffene.
+    Beschreibung: Dieser Screenshot zeigt die Liste der Dateien, die sich im S3-Bucket befinden und für das Hosting der statischen Website verwendet werden.
+
+## 8. Screenshot – Eigenschaften von "Static website hosting"
+
+    Beschreibung: Der Screenshot zeigt die Einstellungen für das Hosting einer statischen Website im S3-Bucket, wobei die Indexdatei und die Fehlerseite konfiguriert sind.
