@@ -21,3 +21,15 @@ Beschreibung: Dieser Screenshot zeigt die Liste der Dateien, die sich im S3-Buck
 
 ## 8. Screenshot – Eigenschaften von "Static website hosting"
 Beschreibung: Der Screenshot zeigt die Einstellungen für das Hosting einer statischen Website im S3-Bucket, wobei die Indexdatei und die Fehlerseite konfiguriert sind.
+
+## 9. Screenshot – JSON-Datei mit der Bucket-Policy für den öffentlichen Zugriff
+Beschreibung: Der Screenshot zeigt den JSON-Code der Bucket-Policy, die den öffentlichen Zugriff auf den S3-Bucket ermöglicht. Diese Policy gewährt Leserechte für alle Benutzer im Internet und stellt sicher, dass die Dateien im Bucket öffentlich zugänglich sind.
+
+## 10.1. Screenshot - 
+In dem Bild Sieht man das ich den Zweiten Schlüssel Benutze
+
+## 10.2. Screenshot
+In dem Bild Sieht man das der Zweite Schlüssel Funktioniert hat
+
+## 11. Screenshot -
+In dem Bild Sieht man das Der Erste Schlüssel nicht Funktioniert hat
